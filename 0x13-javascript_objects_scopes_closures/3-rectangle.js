@@ -7,7 +7,7 @@ class Rectangle {
     }
   }
 
-  print () {
+  print() {
     for (let i = 0; i < this.width; i++) {
       let row = '';
       for (let j = 0; i < this.width; j++) {
